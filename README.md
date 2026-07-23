@@ -37,8 +37,4 @@ Applying the **Situation-Complication-Question-Answer (SCQA)** methodology, the 
 
 ---
 
-## 🚀 How to Use / View
-
-1. **Clone the repository:**
-   ```bash
    git clone [https://github.com/your-username/andes-retail-dashboard.git](https://github.com/your-username/andes-retail-dashboard.git)
