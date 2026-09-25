@@ -1,5 +1,3 @@
-Aquí tienes la traducción al español adaptada con una redacción profesional y clara para un portafolio de análisis de datos:
-
 📊 Andes Retail Group – Dashboard de Desempeño Comercial (2024–2025)
 📌 Descripción General
 Este repositorio contiene el diseño, el flujo de datos (data pipeline) y las visualizaciones interactivas del Dashboard Comercial de Andes Retail Group. Desarrollado en Power BI / Tableau, este proyecto ofrece un análisis exhaustivo del rendimiento de ventas, tendencias de ingresos y segmentación de clientes en las principales regiones objetivo.
